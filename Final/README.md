@@ -1,4 +1,4 @@
-# Linh Hồn Ô Uế
+# The Last Homestead
 
 ## Tên Game
 The Last Homestead
